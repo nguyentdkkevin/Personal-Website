@@ -1,0 +1,138 @@
+Total pages: 3
+--- PAGE 1 ---
+Kevin Nguyen
+Curriculum Vitae for Faculty - Graduate School Application
+Los Angeles, CA | 341-356-1764 | nguyentdkkevin@gmail.com | https://www.linkedin.com/in/kevin-nguyen-b4915029a/
+EDUCATION
+University of California, Los Angeles (UCLA) Los Angeles, CA
+Cumulative GPA: 3.79 | Total Completed Units: 378.5 Expected Graduation: Spring 2026
+B.S. in Statistics and Data Science
+Relevant Coursework: Statistical Models in Finance (STATS C183), Linear Models (STATS 100C), Mathematical Statistics (STATS
+100B), Monte Carlo Methods (STATS 102C), Optimization for Statistics (STATS 102B), Introduction to Data Mining (STATS 101C),
+Practice in Statistical Consulting (STATS 140XP)
+B.S. in Mathematics of Computation
+Relevant Coursework: Stochastic Processes (MATH 171), Machine Learning (MATH 156), Applied Numerical Methods II (MATH
+151B), Algorithms (CS 180) Computer Organization (CS 33), Data Structures (CS 32), Linear Algebra II (MATH 115B), Problem
+Solving for Competition Math (MATH 100), Complex Analysis (MATH 132), Analysis II (MATH 131B), Graph Theory (MATH
+180), Algebra (MATH 110B)
+B.A. in Business Economics
+Relevant Coursework: Economic Forecasting (ECON 144), Investments (ECON 106V), Finance (ECON 106F), Game Theory (ECON
+106G), Data Science for Economists (ECON 104), Econometrics (ECON 103), Organizational Economics (ECON 106I),
+Microeconomic Theory (ECON 101), Macroeconomic Theory (ECON 102), Business Writing and Social Policy (ENGCOMP 131B)
+Minor in Accounting
+Relevant Coursework: Data Visualization / Analytics in Accounting III (MGMT 142C), Advanced Accounting (MGMT 124)
+ACADEMIC PROJECTS
+STATISTICAL MODELING
+Predicting Taiwanese Business Bankruptcy Los Angeles, CA
+Machine Learning July 2025 - August 2025
+● Developed a Random Forest model to classify 1000+ startup companies in Taiwan on their likelihood of bankruptcy.
+● Ran both a logistic regression with lasso and a random forest model to perform top 10 feature selection. Identified weaknesses
+and corrected model imbalance with bagged pooling methods.
+● Concluded that the most important features such as Net Value Growth Rate, Persistent EPS, and Interest Bearing Debt, are values
+that measure growth rates rather than spot values, showing that consistency is a better indicator of growth than high statistics.
+Optimizing Portfolios with Statistical Models Los Angeles, CA
+Statistical Models in Finance September 2025 - November 2025
+● Generated the efficient frontier of 30 stocks across multiple industries using the mutual fund theorem and identified the minimum
+risk, tangent, and other target portfolios.
+● Estimated frontiers using SIM, constant correlation model, multigroup model. Analyzed the performances over past periods of
+each method using different metrics such as the Jensen differential and the Sharpe ratio.
+● Used Vasicek and Blume methods to forecast values in 2022-2025, and used PRESS statistics to find the optimal method.
+Forecasting Oil and Gold Prices Los Angeles, CA
+Data Science for Economists February 2025 - March 2025
+● Forecasted future oil and gold prices by analyzing its time series correlation with stock data (NASDAQ and DJIA indices).
+● Selected best forecasting model using test AIC/BIC/MSE values. Concluded that ARDL(1,1) best models oil prices and AR(1,1)
+best models gold prices.
+● Ran a VAR model to test interaction effects between old and gold prices.
+● Visualized numerous plots to analyze the relation between the four time series using the CCF, IRF, CUSUM, and FEVD plots.
+DATA ANALYSIS AND VISUALIZATION
+Class Is In Session! Los Angeles, CA
+Game Theory July 2024 - August 2024
+● Used game theory techniques to model optimal collegiate grading schemes. Found best exam times within a quarter are typically
+later (first exam Week 5), and moving it earlier would require system-level policies.
+
+--- PAGE 2 ---
+● Observed the optimal strategy of collusion in student vs. student environments, setting exam difficulties in professor vs. student
+environments, and amounts of covered material in class series for professor v. professor environments.
+● Discovered an alarming comparison between curved classes and the famous “Beauty Contest” concept and suggested solutions.
+Impacts of Capital Investment on Unemployment Los Angeles, CA
+Data Science for Economists February 2025 - March 2025
+● Analyzed panel data from 1970 - 1986 containing public and private capital, gross state product, and unemployment rate data.
+● Identified California and New York had GSP growth over 10x compared to their peers using the best of pooling/fixed/random
+effect techniques. Concluded this was driven by population expansion and technological development during this period.
+● Found Texas severely underperforming despite its high mean GSP relative to its predicted levels of public and private capital.
+EY Bank Analysis and Visualization Los Angeles, CA
+Analytics in Accounting III May 2025 - June 2025
+● Used Power BI to visualize dashboards describing amounts of each debt securities type across different bank sizes.
+● Transformed massive csv/excel data with Power Query and calculated new interest rate columns using table formulas.
+● Examined how the average amount of HTM and AFS bonds change over the years by mapping trend lines in Tableau.
+Investments and Finance Labs Los Angeles, CA
+Investments and Finance September 2024 - December 2024, April 2025 - June 2025
+● Analyzed housing bubble data and used an exponential decay model to observe probability of banks defaulting
+● Verified the put-call parity for options within a binomial tree setting, and compared it with convertible/vanilla bond strategies.
+● Used NPV analysis to evaluate three career and education paths, concluding that MBAs yield the highest expected value.
+● Calculated for 20+ companies, their alpha using the CAPM model, and their enterprise values using financial statement data.
+CODING PROJECTS
+Tunnelman Game Los Angeles, CA
+Data Structures July 2024 - August 2024
+● Developed a 2D-grid game implementing core gameplay mechanics of digging, collecting goodies, and avoiding obstacles.
+● Created breadth-first search algorithms for AI pathfinding and responsive enemy behavior.
+● Applied object-oriented programming principles, including inheritance and polymorphism, to track “actor states”.
+● Designed the game to modify difficulty across multiple levels using parameters that follow automatically increasing formulas.
+TEACHING EXPERIENCE
+UCLA Anderson School of Management Los Angeles, CA
+Undergraduate Teaching Assistant December 2023 - December 2024
+● Answered varying questions from students during weekly office hours in place of the professor.
+● Facilitate midterms and finals for three different classes related to financial accounting and taxation principles.
+● Graded over 120 midterms and finals.
+PROFESSIONAL EXPERIENCE
+PwC San Jose, CA
+Quantitative Solutions and Technology Intern July 2025 - Present
+● Developed Alteryx workflows to parse complex data sets and generate tax approximation models rapidly for clients with over
+1000+ subsidiaries.
+● Leveraged software tools to automate tax calculations for clients based on their financial statement data and organization charts.
+● Reviewed and prepared tax workpapers and returns (Forms 5471, 8858, and their schedules) for three major multinational clients.
+Grant Thornton San Jose, CA
+Corporate Tax and Data Analytics Intern June 2024 - September 2024
+● Conducted over 10 transfer pricing analyses, benchmarking intercompany transactions to ensure compliance with international tax
+regulations.
+● Assisted in preparing a full transfer pricing documentation and reports, providing support for audits and regulatory inquiries.
+● Evaluated tax-related risks and risk management strategies, identifying areas for improved compliance and operational efficiency.
+Loan Factory San Jose, CA
+Marketing Intern July 2023 - September 2023
+● Advised the CEO directly regarding social media and advertisement strategies.
+● Compiled meta reels and youtube shorts using 200+ minutes of company interview footage with photoshop.
+● Monitored four of the company’s social media accounts.
+● Administered the usage of Opus Clip into the regular course of advertisement amongst the marketing team.
+
+--- PAGE 3 ---
+AWARDS
+ASA Datafest 2025 Los Angeles, CA
+Winner May 2025
+● Won first place in the West Coast’s largest data hackathon with over 400 total participants from across 10+ universities.
+● Analyzed leasing market data for the financial industry by utilizing Python to generate random forest models and other analytics.
+● Utilized Power BI to create and present to a panel of ASA-certified judges, winning the Datafest Visualization category.
+AIME Qualifier San Jose, CA
+Score: 5/15 November 2020 - June 2022
+● Made it through the AMC 12 two years in a row, representing my high school in competition math both years.
+● Mentored other high schooler students in competition math strategies in multiple local events as Vice President of Math Club..
+LEADERSHIP
+Young Entrepreneurs Program Los Angeles, CA
+Program Manager September 2023 - Present
+● Produced a program schedule for a Day of Entrepreneurship event at UCLA.
+● Presented and taught 30+ students about principles of financial accounting and its importance in entrepreneurship.
+● Instructed a team of seven students in developing a business model for an example fashion company step by step.
+Enigma Los Angeles, CA
+President May 2025 - Present
+● Directed a board of 12 officers every week to execute campus-wide events on Tuesdays, board game nights with 50+ participants
+on Fridays, and off-campus socials on Saturdays.
+● Monitored the preparation for the 40th club anniversary celebration, a four-day city-wide event, by fundraising $9000+.
+● Managed Enigma’s TTRPG-focused sister branch of over 70 active members in scheduling 10+ sessions every week.
+SKILLS, ORGANIZATIONS & INTERESTS
+Languages: C++, R, Python, Assembly
+Packages: scikit-learn, PyTorch, Tidyverse, statsmodels.tsa, randomForest, glmnet, ggplot
+Tools: Alteryx, Excel, Tableau, Power BI, Power Query, Power Pivot, Google Sheets
+Editing Software: Photoshop, Gimp
+Organizations: Young Entrepreneurship Program, Beta Alpha Psi, Enigma, Vietnamese Student Union, UCLA Climbing Team
+Interests: Dungeons and Dragons, Pianist, Hiking, Skiing, Climbing, Game Development, Parkour and Freerunning, Taekwondo,
+Competition Math, Badminton, Speedcubing, and Cardistry
+

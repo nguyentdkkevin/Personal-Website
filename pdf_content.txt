@@ -1,0 +1,143 @@
+Total pages: 3
+--- PAGE 1 ---
+Kevin Nguyen
+Quantitative Coursework Summary Sheet | Los Angeles, CA | 341-356-1764 | nguyentdkkevin@gmail.com |
+https://www.linkedin.com/in/kevin-nguyen-b4915029a/
+University of California, Los Angeles (UCLA) Los Angeles, CA
+Cumulative GPA: 3.77 | Total Completed Units: 353.5 Expected Graduation: Spring 2026
+STATISTICS AND DATA SCIENCE
+STATS 101C - Statistical Modeling and Data Mining Fall 2025 | Grade: In-Progress
+● Applying regression trees, clustering, and ensemble methods for predictive modeling and data exploration in R.
+● Using cross-validation and regularization methods to optimize performance and perform feature selection.
+STATS 102C - Monte Carlo Methods Summer 2025 | Grade: A
+● Introduction to Bayesian statistics, prior and posterior probability, and stochastic processes such as Monte Carlo Markov Chains
+● Learned several Monte Carlo methods such as importance and rejection sampling, numerical integration, and the Gibbs Sampler.
+STATS 101B - Design and Analysis of Experiment Summer 2025 | Grade: A
+● Designed factorial and block experiments for multivariate data, practicing experiments on a pretend island population.
+● Breakdown of ANOVA and used post-hoc tests to evaluate fixed and random treatment effects.
+STATS 102B - Optimization for Statistics Spring 2025 | Grade: A+
+● Learned gradient descent and variants such as Nesterov, Heavy Ball, and AdaGrad, and an introduction to neural networks.
+● Split data into training and testing sets. Learned methods of cross-validation and model selection such as the ROC curve.
+STATS 100C - Linear Models Spring 2025 | Grade: A
+● Derived using matrix/vector calculus, all equations, estimators, and coefficients in OLS, GLS, and ridge regression models.
+● Introduction to partial regression and how to perform constrained optimization in multivariate regression models.
+STATS 102A - Computational Statistics with R Winter 2025 | Grade: A
+● Further developed R coding skills by exploring tidydata, webscraping techniques, and dplyr.
+● Implemented numerical methods (Newton’s method, Golden Section search, Nelder-mead, etc.) and bootstrapping using R.
+STATS 101A - Intro to Regression Winter 2025 | Grade: A
+● Modeled relationships between input and output data using simple and multiple linear regression.
+● Applied hypothesis testing, multicollinearity diagnostics, and model validation techniques.
+STATS 100B - Mathematical Statistics Fall 2024 | Grade: A
+● Derived properties of estimators using the method of moments and maximum likelihood. Learned about families of distributions
+and their relationships through moment-generating functions.
+● Applied distribution theory to interval estimation and hypothesis testing, learned about Cramer-Rao lower bound,
+Neyman-Pearson lemma, order statistics, and performing power analysis.
+STATS 100A - Probability Spring 2024 | Grade: A+
+● Developed probability models for common discrete and continuous distributions such as Normal, Poisson, Binomial, etc.
+● Explored conditional probability, pdfs/cdfs, limit theorems, and an introduction to moment-generating functions.
+MATHEMATICS
+MATH 110A - Abstract Algebra I Fall 2025 | Grade: In-Progress
+● Studying groups, fields, ideals, and mainly rings and its properties. Found many examples of rings, integral domains, and fields,
+comparing similar properties with one another.
+● Extrapolated modular arithmetic from the integers to polynomial rings and eventually quotient rings.
+MATH 100 - Problem Solving for Competition Math Fall 2025 | Grade: In-Progress
+● Ventured through all areas of mathematics (algebra, geometry, combinatorics, series, group theory, etc.), learning about common
+advanced tricks to problem solving in each area, as a build-up towards harder competition math problems such as in the Putnam.
+MATH 156 - Machine Learning Summer 2025 | Grade: A
+● Proved the Bias-Variance tradeoff and learned how to avoid overfitting, perform model selection, and cross-validation.
+
+--- PAGE 2 ---
+● Explored different methods of machine learning across both supervised (logistic regression, support vector machines, random
+forests, boosting) and unsupervised (k-means clustering, PCA) learning.
+● Introduction to transformers and how large language models utilized mentioned techniques of machine learning to operate.
+MATH 132 - Complex Analysis for Applications Summer 2025 | Grade: A-
+● Learned about complex numbers and its transformations from a visual and analytic standpoint.
+● Used complex numbers to solve complex integrals and contour integrals using the Residue theorem.
+MATH 151B - Numerical Methods II Spring 2025 | Grade: A-
+● Solved initial value problems and boundary value problems using several numerical methods.
+● Studied convergence and stability of these iterative algorithms by observing their Taylor expansions and finding roots of
+characteristic polynomials.
+MATH 171 - Stochastic Processes Winter 2025 | Grade: A
+● Detailed the weak and strong properties of markov chains, studied irreducibility, recurrent and transitive states, and random walk.
+● Built up to solving larger problems using exit distributions and Poisson/Exponential variables.
+MATH 151A - Numerical Methods I Winter 2025 | Grade: A
+● Performed Lagrange interpolation, numerical differentiation, and numerical integration such as Trapezoidal and Simpson’s Rule.
+● Learned numerical methods to find zeroes and perform Gaussian elimination and other algebra techniques at lower complexity.
+MATH 131B - Real Analysis II Winter 2025 | Grade: B+
+● Defined numerous properties of metric spaces such as completeness, connectedness, open/closed, and compactness.
+● Analyzed continuity of functions, convergence properties, and built up to studying analytic functions.
+MATH 180 - Graph Theory Fall 2024 | Grade: A-
+● Proved several key theorems about graphs such as Hall’s theorem, Brooke’s theorem, and explored Ramsey theory.
+● Studied connectivity, planarity, bipartite graphs, and coloring problems by using many combinatorial techniques.
+MATH 131A - Real Analysis I Fall 2024 | Grade: A+
+● Explored sequences, series, limits, and their convergence in one dimension using epsilon-delta proofs.
+● Proved fundamental theorems of calculus rigorously, using numerous applications of the triangle inequality.
+MATH 115A - Linear Algebra Spring 2024 | Grade: A+
+● Began using rigorous mathematical proof language. Learned properties of maps, such as injectivity and surjectivity.
+● Explored axioms of fields and vector spaces, and relating abstract kinds of vector spaces using definitions of isomorphism.
+QUANTITATIVE FINANCE
+STATS C183- Statistical Models in Finance Fall 2025 | Grade: In-Progress
+● Worked with the efficient frontier to observe the tradeoff between volatility and return. Derived the mutual fund theorem.
+● Compared portfolio performances across the simple index model, multi-group model, and constant correlation model.
+● Derived formulas behind option theory, demonstrated computational examples of arbitrage, and outlined investing strategies by
+combining puts, calls, and stocks. Build up to the Black-Scholes formula for option pricing.
+ECON 106V/106VL - Investments Spring 2025 | Grade: A
+● Learned methods to calculate interest rates, metrics to compare yields of different investments, immunization, and arbitrage.
+● Studied theory of options, building up to the binomial option pricing model and Black-Scholes formula.
+ECON 106F/106FB - Corporate Finance Fall 2024 | Grade: A-
+● Explored the time value of money and discounted cash flow methods. Calculated many bond, loan, and mortgage rates.
+● Studied the CAPM model and how to estimate alpha and beta between the market and individual stocks.
+COMPUTER SCIENCE
+COM SCI 33 - Computer Organization Fall 2024 | Grade: A+
+● Programmed in x86 assembly and C to explore memory, registers, low-level computation, and studied code injection attacks.
+● Learned computer optimization by exploring cache structures, tiling, tracking register sizes, and using threads.
+COM SCI 32 - Data Structures / Computer Science II Summer 2024 | Grade: A-
+● Implemented numerous data structures, such as queues, stacks, linked lists, trees, hash maps, and graphs using principles of
+Object-Oriented Programming (polymorphism, inheritance, etc.)
+● Simplified convoluted code using recursion and learned fast sorting algorithms by studying asymptotic Big-O complexity
+
+--- PAGE 3 ---
+ECONOMICS
+ECON 144 - Economic Forecasting Fall 2025 | Grade: In-Progress
+● Forecasting macroeconomic time series using ARIMA and VAR models after decomposing time series data into stationary parts.
+● Studied exponential filters, volatility measurement metrics, temporal aggregation models, and introduction to state space models.
+ECON 106I/106IL - Organizational Economics Fall 2025 | Grade: In-Progress
+● Studied incentive design, asymmetric information, adverse selection, principal-agent problems, and firm efficiency. Read many
+case studies of large corporations, how they organized their own firm structure, and the observed benefits of their decisions.
+ECON 104/104L - Data Science for Economists Winter 2025 | Grade: A+
+● Remedied common issues in linear regression such as heteroskedasticity and autocorrelation by learning advanced techniques.
+● An introduction to time series and panel data, using pooled/fixed effects/random effects models to observe change over time.
+ECON 106G/106GL - Game Theory Spring 2024 | Grade: A+
+● Modeled strategy using Nash equilibrium and mixed strategies through both repeated and sequential multi-staged games.
+● Used backward induction to find SPNEs and applied it to numerous real-life case-studied scenarios.
+ECON 103/103L - Econometrics Winter 2024 | Grade: A
+● An introduction to regression and statistics from an economists’ point of view, geared to applications in economics. Performed
+hypothesis testing, made confidence intervals, and explored interaction terms.
+ECON 102 - Macroeconomic Theory Winter 2024 | Grade: A+
+● Studied the impact of evolving technology and labor using the Solow Growth model. Detailed dive into labor markets.
+● Introduction to Keynesian economics. Led into learning about IS-LM, IS-MP-PC, foreign exchange markets, and inflation rates.
+ECON 101 - Microeconomic Theory Fall 2023 | Grade: A+
+● Analyzed consumer choice, firm behavior, and market equilibrium in monopolies using optimization and backward induction.
+● Introduction to game theory to help solve market scenarios in oligopolies.
+BUSINESS ANALYTICS
+MGMT 142C - Analytics III (Data Visualization) Spring 2025 | Grade: A
+● Analyzed real-life accounting data and presented findings to companies using Tableau storyboards.
+● Harnessed Power BI’s internal query tool to transform Excel data directly into visualizations that update through formulas.
+● Utilized visualization packages in Power BI to create exemplary live-interactive visualizations for map/spatial data.
+MGMT 142B - Analytics II (Data Transformation) Winter 2025 | Grade: A-
+● Furthered excel skills by generating pivot tables, leading into the software’s built-in Power Pivot
+● Transformed and cleaned data within Power Query, collecting and combining csv/xlsx files from across multiple file locations.
+MGMT 142A - Analytics I (Excel) Fall 2024 | Grade: A-
+● Gained proficiency in Excel by repeatedly using lookup functions (Xlookup, Index-Match-Match), conditional-if formulas, coded
+macros in VBA, and across over 30+ workpapers.
+● Introduction to data visualization using automated charts in Excel.
+MGMT 164 - Entrepreneurial Finance Spring 2023 | Grade: A-
+● Categorizing early-stage companies and fundamental concepts of capital formation for new ventures.
+● Valuations of companies and how rounds of funding works. Angel investors and venture capital.
+OTHER
+I also finished the accounting track as part of the accounting minor and the road to obtaining the CPA, though this is less relevant for
+graduate programs. I received an average of A/A- in the following classes.
+Financial Accounting: MGMT 124 (A), MGMT 120B (A), MGMT 120A (A-)
+Tax Accounting: MGMT 127B (B+), MGMT 127A (A-)
+Other: MGMT 108 - Business Law (A-), MGMT 122 - Managerial/Cost Accounting (A-)
+
